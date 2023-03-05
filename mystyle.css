@@ -30,6 +30,13 @@
     }
   }
 
+ @media only screen and (max-width: 400px) {
+    .myBanner {
+      /* height: auto; */
+      padding-top: 19rem ;
+    }
+  }
+
 .myBanner-2{
     width: 100%;
     height: 60vh;
